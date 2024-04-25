@@ -1,56 +1,77 @@
 legend:
   title: Legend
   categories:
-    - name: A category
+    - name: Workshop
       color: blue-6
-    - name: Another category
+    - name: Talk
       color: red-6
-    - name: Yet another category
+    - name: Open Event
       color: teal-6
 
 days:
   - name: Day 1
     events:
       - time: 8:00 to 9:00
-        title: Registration and coffee
-      - time: 9:00 to 11:00
-        title: Lorem ipsum
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: A category
-      - time: 11:00 to 13:00
-        title: Dolor sit amet
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
+        title: Registration and Coffee
+      - time: 10:00 to 11:00
+        title: API Fraud Workshop
+        subtitle: Case studies and a live fraud demonstration on API abuse.
+        category: Workshop
+      - time: 11:00 to 11:30
+        title: Keynote/Kick-off Talk
+        subtitle: Exploring the evolution of API security, market opportunities, and implications of Generative AI in API Security.
+        category: Talk
       - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Consectetur adipiscing elit
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 16:00 to 18:00
-        title: Sed do eiusmod
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-        category: Another category
+        title: Lunch Break
+      - time: 14:00 to 15:00
+        title: Secure API Authentication and Authorization testing
+        subtitle: Building secure APIs by design. 
+        category: Workshop
+      - time: 15:00 to 15:30
+        title: "API Authentication: The Good, the Bad, and the Ugly"
+        subtitle: From unwise practices to best practices of API authentication.
+        category: Talk
+
   - name: Day 2
     events:
       - time: 8:00 to 9:00
         title: Coffee
-      - time: 9:00 to 11:00
-        title: Tempor incididunt
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 11:00 to 13:00
-        title: Ut labore et dolore
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
+      - time: 9:00 to 10:00
+        title: Vulnerabilities in API World
+        subtitle: Workshop with focus on finding OWASP API Top 10 using crAPI.
+        category: Workshop
+      - time: 11:00 to 11:30
+        title: D&R in the API Space
+        subtitle: Discussion on Detection and Response in API security.
+        category: Talk
       - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Magna aliqua
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
-      - time: 16:00 to 18:00
-        title: Poster presentations
-        category: Yet another category
-      - time: 18:00 to 19:00
-        title: Closing
+        title: Lunch Break
+      - time: 15:00 to 15:30
+        title: DevSecOps Automation in the API World
+        subtitle: Integrating security early in the development process.
+        category: Talk
+      - time: 15:30 to 16:00
+        title: Shifting Left Efficiently!
+        subtitle: Efficient strategies for early security integration.
+        category: Talk
+      - time: 16:00 to 17:00
+        title: Networking Event - Co-located
+        subtitle: Partnering with the other villages.
+        category: Open Event
+
+  - name: Both Days/ Activities
+    events:
+      - time: 9:00 to 17:00
+        title: Open Discussion on GenAI & Security
+        subtitle: BOF on GenAI, Security and modern world problems. 
+        category: Open Event
+      - time: 9:00 to 17:00
+        title: Building Career in Security
+        subtitle: Career guidance from experts. 
+        category: Open Event
+      - time: 9:00 to 17:00
+        title: Hackathon 
+        category: Open Event
+      - time: 9:00 to 17:00
+        title: Blogging Competition
+        category: Open Event
