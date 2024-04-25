@@ -1,0 +1,69 @@
+groups:
+  - title: Programme Organisers
+    columns: true
+    members:
+      - name: Tinkle
+        surname: Chugh
+        email: t.chugh@exeter.ac.uk
+      - name: George
+        surname: De Ath
+        email: g.de.ath@exeter.ac.uk
+      - name: Paul
+        surname: Kent
+        email: p.u.kent@exeter.ac.uk
+      - name: Alma
+        surname: Rahat
+        email: a.a.m.rahat@swansea.ac.uk
+      - name: Kaifeng
+        surname: Yang
+        email: kaifeng.yang@fh-hagenberg.at
+  # - title: Local organizer
+  #   columns: false
+  #   members:
+  #     - name: Pygoscelis
+  #       surname: Papua
+  #       email: gentoo@pengu.in
+  # - title: Participants
+  #   columns: true
+  #   members:
+  #     - name: Pygoscelis
+  #       surname: Adeliae
+  #     - name: Pygoscelis
+  #       surname: Antarcticus
+  #       email: chinstrap@pengu.in
+  #     - name: Eudyptula
+  #       surname: Minor
+  #       email: little@pengu.in
+  #     - name: Spheniscus
+  #       surname: Mendiculus
+  #     - name: Spheniscus
+  #       surname: Humboldti
+  #       email: humboldt@pengu.in
+  #     - name: Spheniscus
+  #       surname: Magellanicus
+  #       email: magellanic@pengu.in
+  #     - name: Spheniscus
+  #       surname: Demersus
+  #       email: african@pengu.in
+  #     - name: Megadyptes
+  #       surname: Antipodes
+  #       email: yellow-eyed@pengu.in
+  #     - name: Eudyptes
+  #       surname: Chrysolophus
+  #     - name: Eudyptes
+  #       surname: Schlegeli
+  #       email: royal@pengu.in
+  #     - name: Eudyptes
+  #       surname: Moseleyi
+  #       email: northern-rockhopperi@pengu.in
+  #     - name: Eudyptes
+  #       surname: Chrysocome
+  #       email: southern-rockhopper@pengu.in
+  #     - name: Eudyptes
+  #       surname: Pachyrhynchus
+  #       email: fiordland@pengu.in
+  #     - name: Eudyptes
+  #       surname: Robustus
+  #       email: snares@pengu.in
+  #     - name: Eudyptes
+  #       surname: Sclateri
