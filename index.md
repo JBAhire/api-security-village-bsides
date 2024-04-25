@@ -21,6 +21,8 @@ Join us for the API Security Village at BSidesSF 2024, where we delve into the m
 ## Participate
 Registration Information: "Don’t miss out on the opportunity to elevate your expertise in API security. Secure your spot today and be part of a community pushing the boundaries of what's possible in API protection. [Register for BSides SF Here](https://bsidessf.regfox.com/2024)"
 
+Register for Hackathon: https://forms.gle/4uLnANSp9By5jTCo6 
+
 ## Speakers
 
 | | | |
